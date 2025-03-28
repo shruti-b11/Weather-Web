@@ -1,4 +1,4 @@
-const api_key = "xyz"; 
+const api_key = "xyz";
 
 const weather_icons = {
     Clear:  "icons/clear.png",
