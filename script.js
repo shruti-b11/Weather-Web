@@ -54,7 +54,7 @@ function display(data) {
     
     weather_res.innerHTML = `
         <h2>${name}</h2>
-        <img src="${weather_icon}" alt="${condition}" class="weather-icon" />
+        <img src="${weather_icon}" alt="${condition}" class="icon" />
         <p>${weather[0].description}</p>
         <p>Temperature: ${main.temp}°C</p>
         <p>Humidity: ${main.humidity}%</p>
