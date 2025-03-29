@@ -11,8 +11,6 @@ const weather_icons = {
     Haze: "icons/haze.png",
     Dust: "icons/dust.png",
     Fog: "fog.png",
-    Sand: "icons/sand.png",
-    Tornado: "icons/tornado.png",
     Default: "icons/default.png"
 };
 
